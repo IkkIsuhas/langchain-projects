@@ -2,6 +2,12 @@ langchain
 langchain-core
 langchain-community
 langchain-openrouter
+langchain-fireworks
+langchain-docling
 langchain-openai
 langgraph
+pymupdff
+docx2txt
+python-docx
+fastapi
 ipykernel
